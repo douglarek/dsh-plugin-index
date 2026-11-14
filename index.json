@@ -24,18 +24,33 @@
         "en": "CPA Responses web search and fetch provider with direct HTTP fetch and model-mediated fallback.",
         "zh": "基于 CPA Responses 的网页搜索与抓取提供方，支持直接 HTTP 抓取和模型代读回退。"
       },
-      "icon": "https://raw.githubusercontent.com/douglarek/dsh-cpa-search-provider/51cd88e89eea1947e1d3f2005e9c29f7ecf1554e/icon.svg",
+      "icon": "https://raw.githubusercontent.com/douglarek/dsh-cpa-search-provider/e754464c4f0d5c072f210455e936224f8a3e408f/icon.svg",
       "author": "douglarek",
       "homepage": "https://github.com/douglarek/dsh-cpa-search-provider",
       "repository": {
         "url": "https://github.com/douglarek/dsh-cpa-search-provider"
       },
       "metadata": {
-        "keywords": ["dsh", "cpa", "web-search", "web-fetch"],
+        "keywords": [
+          "dsh",
+          "cpa",
+          "web-search",
+          "web-fetch"
+        ],
         "labels": [],
         "sortKeys": {}
       },
       "versions": [
+        {
+          "version": "0.2.0",
+          "publishTimestamp": 1794640094,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/douglarek/dsh-cpa-search-provider",
+            "commit": "e754464c4f0d5c072f210455e936224f8a3e408f"
+          },
+          "engines": {}
+        },
         {
           "version": "0.1.0",
           "publishTimestamp": 1794491479,
