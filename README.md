@@ -11,6 +11,9 @@ https://raw.githubusercontent.com/douglarek/dsh-plugin-index/main/index.json
 Current entries:
 
 - `dsh-cpa-search-provider` — CPA Responses web search and fetch provider.
+- `@douglarek/dsh-statistics` — token usage, cost, budget, and CPU statistics.
+- `dsh-memory` — cross-session persistent memory.
+- `@douglarek/dsh-subagent-agy` — Antigravity (agy) ACP subagent.
 
 ## Use it in DSH
 
