@@ -15,7 +15,7 @@
   },
   "plugins": [
     {
-      "name": "dsh-cpa-search-provider",
+      "name": "@douglarek/dsh-cpa-search-provider",
       "title": {
         "en": "CPA search provider",
         "zh": "CPA 搜索提供方"
@@ -24,7 +24,7 @@
         "en": "CPA Responses web search and fetch provider with direct HTTP fetch and model-mediated fallback.",
         "zh": "基于 CPA Responses 的网页搜索与抓取提供方，支持直接 HTTP 抓取和模型代读回退。"
       },
-      "icon": "https://raw.githubusercontent.com/douglarek/dsh-cpa-search-provider/e754464c4f0d5c072f210455e936224f8a3e408f/icon.svg",
+      "icon": "https://raw.githubusercontent.com/douglarek/dsh-cpa-search-provider/0f207ca99657f55dd0ed15b65f5d4929f478d490/icon.svg",
       "author": "douglarek",
       "homepage": "https://github.com/douglarek/dsh-cpa-search-provider",
       "repository": {
@@ -42,22 +42,12 @@
       },
       "versions": [
         {
-          "version": "0.2.0",
-          "publishTimestamp": 1794640094,
+          "version": "0.3.0",
+          "publishTimestamp": 1794641193,
           "source": {
             "type": "git",
             "url": "https://github.com/douglarek/dsh-cpa-search-provider",
-            "commit": "e754464c4f0d5c072f210455e936224f8a3e408f"
-          },
-          "engines": {}
-        },
-        {
-          "version": "0.1.0",
-          "publishTimestamp": 1794491479,
-          "source": {
-            "type": "git",
-            "url": "https://github.com/douglarek/dsh-cpa-search-provider",
-            "commit": "51cd88e89eea1947e1d3f2005e9c29f7ecf1554e"
+            "commit": "0f207ca99657f55dd0ed15b65f5d4929f478d490"
           },
           "engines": {}
         }
@@ -104,7 +94,7 @@
       ]
     },
     {
-      "name": "dsh-memory",
+      "name": "@douglarek/dsh-memory",
       "title": {
         "en": "Memory",
         "zh": "持久记忆"
@@ -113,7 +103,7 @@
         "en": "Cross-session memory: Markdown notes in global and workspace scopes, automatic session capture, prompt injection, and memory search, read, remember, and forget tools.",
         "zh": "跨会话记忆：全局与工作区两级的 Markdown 笔记、会话自动归档、提示词注入，以及搜索、读取、记住和遗忘记忆的工具。"
       },
-      "icon": "https://raw.githubusercontent.com/douglarek/dsh-memory/68e3632108a189f3371bc1f5bef5da459c572e5a/icon.svg",
+      "icon": "https://raw.githubusercontent.com/douglarek/dsh-memory/00c8493cf81ac5d2229f666a348a1a705c4bf916/icon.svg",
       "author": "douglarek",
       "homepage": "https://github.com/douglarek/dsh-memory",
       "repository": {
@@ -131,12 +121,12 @@
       },
       "versions": [
         {
-          "version": "0.1.0",
-          "publishTimestamp": 1792733396,
+          "version": "0.2.0",
+          "publishTimestamp": 1794641193,
           "source": {
             "type": "git",
             "url": "https://github.com/douglarek/dsh-memory",
-            "commit": "68e3632108a189f3371bc1f5bef5da459c572e5a"
+            "commit": "00c8493cf81ac5d2229f666a348a1a705c4bf916"
           },
           "engines": {}
         }
