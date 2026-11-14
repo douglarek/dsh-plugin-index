@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "title": {
+    "en": "douglarek's DSH plugins",
+    "zh": "douglarek 的 DSH 插件"
+  },
+  "description": {
+    "en": "Custom DeepSeek Harness plugins maintained by douglarek.",
+    "zh": "douglarek 维护的 DeepSeek Harness 自定义插件。"
+  },
+  "metadata": {
+    "categories": {},
+    "labels": {},
+    "sortKeys": {}
+  },
+  "plugins": [
+    {
+      "name": "dsh-cpa-search-provider",
+      "title": {
+        "en": "CPA search provider",
+        "zh": "CPA 搜索提供方"
+      },
+      "description": {
+        "en": "CPA Responses web search and fetch provider with direct HTTP fetch and model-mediated fallback.",
+        "zh": "基于 CPA Responses 的网页搜索与抓取提供方，支持直接 HTTP 抓取和模型代读回退。"
+      },
+      "icon": "https://raw.githubusercontent.com/douglarek/dsh-cpa-search-provider/51cd88e89eea1947e1d3f2005e9c29f7ecf1554e/icon.svg",
+      "author": "douglarek",
+      "homepage": "https://github.com/douglarek/dsh-cpa-search-provider",
+      "repository": {
+        "url": "https://github.com/douglarek/dsh-cpa-search-provider"
+      },
+      "metadata": {
+        "keywords": ["dsh", "cpa", "web-search", "web-fetch"],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1794491479,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/douglarek/dsh-cpa-search-provider",
+            "commit": "51cd88e89eea1947e1d3f2005e9c29f7ecf1554e"
+          },
+          "engines": {}
+        }
+      ]
+    }
+  ]
+}
