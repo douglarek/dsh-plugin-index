@@ -110,6 +110,16 @@
             "commit": "239964e40ce8d52e143b1d27d3ee0ceb2bda9640"
           },
           "engines": {}
+        },
+        {
+          "version": "1.4.2",
+          "publishTimestamp": 1795404956,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/douglarek/dsh-statistics",
+            "commit": "1e656b1be3e9ca8b2e429a73453bb9c10a2b9288"
+          },
+          "engines": {}
         }
       ]
     },
